@@ -1,6 +1,0 @@
-nilearn
-numpy
-matplotlib
-scipy
-sklearn
-repo2data
