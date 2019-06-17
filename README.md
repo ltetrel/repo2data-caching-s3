@@ -1,6 +1,6 @@
-Lab [![Binder](https://conp8.calculquebec.cloud/badge_logo.svg)](https://conp8.calculquebec.cloud/v2/gh/ltetrel/repo2data-caching-s3/master?urlpath=lab)
+Lab [![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/ltetrel/repo2data-caching-s3/master?urlpath=lab)
 
-[![Binder](https://conp8.calculquebec.cloud/badge_logo.svg)](https://conp8.calculquebec.cloud/v2/gh/ltetrel/repo2data-caching-s3/master/)
+[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/ltetrel/repo2data-caching-s3/master/)
 
 # data-caching-binder-test
 
