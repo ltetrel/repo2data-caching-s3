@@ -1,4 +1,4 @@
 { "src": "s3://openneuro.org/ds001037",
   "dst": "./data",
-  "projectName": "repo2data_s3_chris_brain",
+  "projectName": "repo2data_s3_binder",
 "recursive": true}
